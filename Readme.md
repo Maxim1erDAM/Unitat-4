@@ -65,6 +65,10 @@ cd Unitat-4/
 git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`3.Modificarem els fitxers, en este cas son els fitxers escrits en C del exercici "Calcula":calc.c, calc.h i calcula.c amb companyia del fitxer Makefile de make.`***  
+
+![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
+
+
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" :
 
 git add NOMDEFITXER
@@ -72,7 +76,7 @@ git add NOMDEFITXER
 Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
 >***`Eixemple:`***  
 
-![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
+
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
 ![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
 
