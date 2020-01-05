@@ -76,14 +76,14 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 git add NOMDEFITXER
 
-Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
+>***`Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
 >***`Eixemple:`***  
 
 
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
 ![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
 
-Así un eixemple de push de les Imatges del ejercici:`***  
+>***`Así un eixemple de push de les Imatges del ejercici:`***  
 >***`Eixemple:`***  
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
