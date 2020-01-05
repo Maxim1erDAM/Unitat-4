@@ -74,11 +74,14 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
->***`Executem els TARGETS del makefile amb "sudo make TARGET": `***  
+>***`Executem els tots els TARGETS del makefile amb "sudo make TARGET", tambe utilitzem "sudo make dist" per a crear un directori "dist" amb el compilat de calcula al directori fill, i "sudo make distclean" per a eliminar eixe directori: `***  
 
 ![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 ![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
+
+>***`Executem el archiu "calcula" compilat del makefile amb "sudo make calc.o" i "sudo make calcula": `*** 
+![Execuciocalcula](Imatges/EXECUCIOCALCULA.png)
 
 ## 4.-Com utilitzar Git Part 2.
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
