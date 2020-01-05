@@ -69,7 +69,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
 
->***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" :
+>***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
 
 git add NOMDEFITXER
 
@@ -80,7 +80,8 @@ Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que 
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
 ![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
 
-
+Así un eixemple de push de les Imatges del ejercici:`***  
+>***`Eixemple:`***  
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
 
