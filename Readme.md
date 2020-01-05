@@ -47,7 +47,12 @@ git clone https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`2.Després de descarregarlo ens situarem en el directori i sincronitzarem el directori amb el repositori de Github :`***  
 >***`Eixemple:`***  
-git clone https://github.com/USUARIGITHUB/REPOSITORI.git
+El nom del repositori deu ser el mateix que el repositori del sistema local. En aquest cas, será “Unitat-4”. Per aixo, abans que res, hi ha que iniciar sessió en Github al introduir la comanda.
+
+Una vegada fet aixó es creará el repositori i será posible pujar o sincronitzar el contingut del repositori local en el repositori de GitHub. Per a conectar el directori al repositori remot de GitHub hi ha que executar la comanda:
+
+cd Unitat-4/
+git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
