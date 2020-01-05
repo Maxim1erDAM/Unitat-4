@@ -11,7 +11,7 @@
 >
 >***[1.-Com instalar Git i Make en Ubuntu 18.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#1-com-instalar-vscode-en-ubuntu-18)***
 >
->***[1.-Com instalar Git i Make en Ubuntu 18.](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
+>***[2. Com utilitzar Git](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
 
 #    **-Activitat pràctica-**
 
