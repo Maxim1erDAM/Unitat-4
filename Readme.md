@@ -14,7 +14,8 @@
 >***[2. Com utilitzar Git Part 1](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
 >
 >***[3. Make i el fitxer Makefile](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#3--make-i-el-fitxer-makefile)***
-
+>
+>***[4. Com utilitzar Git Part 2](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#4-com-utilitzar-git-part-2
 #    **-Activitat pràctica-**
 
 
