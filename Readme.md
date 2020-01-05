@@ -37,9 +37,9 @@ sudo apt install gcc make
 ## 2.-Com utilitzar Git.
 
 >***`1.Descarregar el nostre repositori complet de Github a un directori per a treballar:`***  
->***`Eixemple:`***  
+>***`Eixemple, sincronizant el repositori dins de un directori anomenat "EJERCICIO":`***  
 
-cd EJERCICI/
+cd EJERCICIO/
 
 git clone https://github.com/USUARIGITHUB/REPOSITORI.git
 
