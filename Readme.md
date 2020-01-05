@@ -9,25 +9,30 @@
 
 >### UNITAT 4. Automatització amb Make.
 >
->***[1.-Com instalar VSCODE en Ubuntu 18.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#1-com-instalar-vscode-en-ubuntu-18)***
+>***[1.-Com instalar Git i Make en Ubuntu 18.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#1-com-instalar-vscode-en-ubuntu-18)***
 >
 
 #    **-Activitat pràctica-**
 
 
 
-# UNITAT 4. Práctica de Visual Studio Code.
+# UNITAT 4. Automatització amb Make.
 
 
-## 1.-Com instalar VSCODE en Ubuntu 18.
+## 1.-Com instalar Git i Make en Ubuntu 18.
 
 >***`Actualizar llistat de repositoris de Ubuntu:`***  
 
 sudo apt update
 
->***`Instalar dependencies:`***  
+>***`Instalar git:`***  
 
-sudo apt install software-properties-common apt-transport-https wget
+sudo apt install git
+
+
+>***`Instalar gcc i make:`***  
+
+sudo apt install gcc make
 
 >***`Importar la clau GPG a Ubuntu:`***  
 
