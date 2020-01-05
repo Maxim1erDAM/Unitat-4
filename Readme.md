@@ -69,7 +69,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 git add NOMDEFITXER
 
-Una vegada fet aixó es tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
+Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
 >***`Eixemple:`***  
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
