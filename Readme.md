@@ -56,6 +56,7 @@ git clone https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`2.Després de descarregar-lo, ens situarem en el directori i sincronitzarem el directori amb el repositori de Github.`***  
 https://github.com/USUARIGITHUB/REPOSITORI.git" :`***  
+
 >***`Eixemple:`***  
 
 
