@@ -37,7 +37,9 @@ sudo apt install gcc make
 ## 2.-Com utilitzar Git.
 
 >***`1.Descarregar el nostre repositori complet de Github a un directori per a treballar:`***  
->***`Eixemple, sincronizant el repositori dins de un directori anomenat "EJERCICIO":`***  
+>***`El nom del repositori deu ser el mateix que el repositori del sistema local. En aquest cas, será “Unitat-4”. Per aixó, abans que res, hi ha que iniciar sessió en Github al introduir la comanda.
+Una vegada fet aixó es creará el repositori i será posible pujar o sincronitzar el contingut del repositori local en el repositori de GitHub. Per a conectar el directori al repositori remot de GitHub hi ha que executar la comanda"git remote add origin git clone 
+>***`Eixemple, sincronizant el repositori dins de un directori anomenat "EJERCICIO", amb la comanda "git clone https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
 
 cd EJERCICIO/
 
@@ -49,9 +51,8 @@ git clone https://github.com/Maxim1erDAM/Unitat-4.git
 
 
 
->***`2.Després de descarregarlo ens situarem en el directori i sincronitzarem el directori amb el repositori de Github.`***  
->***`El nom del repositori deu ser el mateix que el repositori del sistema local. En aquest cas, será “Unitat-4”. Per aixo, abans que res, hi ha que iniciar sessió en Github al introduir la comanda.
-Una vegada fet aixó es creará el repositori i será posible pujar o sincronitzar el contingut del repositori local en el repositori de GitHub. Per a conectar el directori al repositori remot de GitHub hi ha que executar la comanda:`***  
+>***`2.Després de descarregar-lo, ens situarem en el directori i sincronitzarem el directori amb el repositori de Github.`***  
+https://github.com/USUARIGITHUB/REPOSITORI.git" :`***  
 >***`Eixemple:`***  
 
 
@@ -61,11 +62,11 @@ cd Unitat-4/
 git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`3.Modificarem els fitxers, en este cas son els fitxers escrits en C del exercici "Calcula":calc.c, calc.h i calcula.c amb companyia del fitxer Makefile de make.`***  
->***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb:
+>***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" :
 
-git add NOMDEFICHER
+git add NOMDEFITXER
 
-Una vegada fet aixó es tindrem que escriure un commit per a anotar els canvis que hem realitzat:`***  
+Una vegada fet aixó es tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
 >***`Eixemple:`***  
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
