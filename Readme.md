@@ -87,7 +87,7 @@ Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que 
 
 
 
-![ImatgeCompilacioPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
+![ImatgePostCompilacioPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 
 
