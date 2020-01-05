@@ -11,7 +11,7 @@
 >
 >***[1.-Com instalar Git i Make en Ubuntu 18.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#1-com-instalar-vscode-en-ubuntu-18)***
 >
->***[2. Com utilitzar Git](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
+>***[2. Com utilitzar Git Part 1](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
 >
 >***[3. Make i el fitxer Makefile](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#3--make-i-el-fitxer-makefile)***
 
@@ -37,7 +37,7 @@ sudo apt install git
 
 sudo apt install gcc make
 
-## 2.-Com utilitzar Git.
+## 2.-Com utilitzar Git Part 1.
 
 >***`1.Descarregar el nostre repositori complet de Github a un directori per a treballar:`***  
 >***`El nom del repositori deu ser el mateix que el repositori del sistema local. En aquest cas, será “Unitat-4”. Per aixó, abans que res, hi ha que iniciar sessió en Github al introduir la comanda.
@@ -77,6 +77,8 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 ![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 ![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
+
+## 4.-Com utilitzar Git Part 2.
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
 
 git add NOMDEFITXER
