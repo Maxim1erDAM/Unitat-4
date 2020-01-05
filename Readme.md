@@ -1,31 +1,22 @@
 # **1ER DAM. Desarrotllament D'Aplicacions Multiplataforma. EDD. Entorns de Desenvolupament.**
 
-***2019-Editat amb [VisualStudioCode](https://code.visualstudio.com/) per a Windows, Linux i Mac.***
+***2019-Editat per Máxim Sánchez Porta
 
 
 # Index:
 
 
 
->### UNITAT 2. Eines per al desenvolupament de programari.
+>### UNITAT 4. Automatització amb Make.
 >
 >***[1.-Com instalar VSCODE en Ubuntu 18.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#1-com-instalar-vscode-en-ubuntu-18)***
 >
->***[2.-Com instalar extensions en VSCODE .](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#2-com-instalar-extensions-en-vscode)***
->
->***[3.-Programar en JAVA.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#3-programar-en-java)***
->
->***[4.-Instalació Java JRE o JDK.](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#4-java-jre-o-jdk)***
->
->***[5.-Opcional. Instalació de Netbeans 11.1](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#5-opcional-instalaci%C3%B3-de-netbeans-111)***
->
->***[6.-Compilar Java desde VSCODE](https://github.com/Maxim1erDAM/EDD/blob/master/Unitat%202/Unitat2.md#6-instalar-extensions-de-java-en-vscode-i-utilitzar-ferramentes-de-jre-o-jdk)***
 
 #    **-Activitat pràctica-**
 
 
 
-# UNITAT 2. Práctica de Visual Studio Code.
+# UNITAT 4. Práctica de Visual Studio Code.
 
 
 ## 1.-Com instalar VSCODE en Ubuntu 18.
