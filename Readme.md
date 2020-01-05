@@ -71,7 +71,8 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 >***`Executant els TARGETS del makefile amb "sudo make TARGET": `***  
 
 ![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
-![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png
+
+![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
 
 git add NOMDEFITXER
