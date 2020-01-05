@@ -68,6 +68,9 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
+>***`Executant els TARGETS del makefile amb "sudo make TARGET": `***  
+
+![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
 
@@ -88,7 +91,6 @@ Así un eixemple de push de les Imatges del ejercici:`***
 
 
 
-![ImatgePostCompilacioPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 
 
