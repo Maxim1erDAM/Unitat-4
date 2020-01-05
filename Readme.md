@@ -34,8 +34,4 @@ sudo apt install git
 
 sudo apt install gcc make
 
->***`Importar la clau GPG a Ubuntu:`***  
 
-wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
-
->***`Afegir el repositori a el llistat d'Ubuntu:`***  
