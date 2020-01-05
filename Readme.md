@@ -50,9 +50,11 @@ sudo apt install gcc make
 
 
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
+![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
+
+
 
 ![ImatgeCompilacioPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
-![ImatgeCompilacioPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
