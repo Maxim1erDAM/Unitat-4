@@ -85,6 +85,10 @@ git add NOMDEFITXER
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
 ![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
 
+>***`Crearem un fitxer .gitignore per a que no incluisca els fitxers .o compilats de el directori del repositori:`***  
+>***`Eixemple:`***  
+![CreacioArchiu.gitignore](Imatges/Creació%20de%20fitxer%20.gitignore%20incluint%20commit%20i%20fent%20push%20al%20branch%20master.png)
+
 >***`Así un eixemple de push de les Imatges del ejercici:`***  
 >***`Eixemple:`***  
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
