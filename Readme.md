@@ -38,7 +38,7 @@ sudo apt install gcc make
 
 >***`1.Descarregar el nostre repositori complet de Github a un directori per a treballar:`***  
 >***`El nom del repositori deu ser el mateix que el repositori del sistema local. En aquest cas, será “Unitat-4”. Per aixó, abans que res, hi ha que iniciar sessió en Github al introduir la comanda.
-Una vegada fet aixó es creará el repositori i será posible pujar o sincronitzar el contingut del repositori local en el repositori de GitHub. Per a conectar el directori al repositori remot de GitHub hi ha que executar la comanda"git remote add origin git clone `***  
+Una vegada fet aixó es creará el repositori i será posible pujar o sincronitzar el contingut del repositori local en el repositori de GitHub. Per a conectar el directori al repositori remot de GitHub hi ha que executar la comanda "git remote add origin git clone https://github.com/USUARIGITHUB/REPOSITORI.git" `***  
 
 
 >***`Eixemple, sincronizant el repositori dins de un directori anomenat "EJERCICIO", amb la comanda "git clone https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
