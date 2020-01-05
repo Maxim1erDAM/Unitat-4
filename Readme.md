@@ -91,7 +91,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 git add NOMDEFITXER
 
 >***`Una vegada fet aixó tindrem que escriure un COMMIT per a anotar els canvis que hem realitzat:`***  
->***`Eixemple:`***  
+>***`Eixemple que mos mostra els canvis del COMMIT:`***  
 
 
 ![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
