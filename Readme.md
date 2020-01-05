@@ -99,10 +99,11 @@ git add NOMDEFITXER
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
 
+>***`Así un eixemple de push de tot el contingut al final del ejercici:`***  
+>***`Eixemple:`***  
+![PushFinal1](Imatges/push%20final%201.png)
 
+![PushFinal2](Imatges/push%20final%202.png)
 
-
-
-
-
+![PushFinal3](Imatges/push%20final%203.png)
 
