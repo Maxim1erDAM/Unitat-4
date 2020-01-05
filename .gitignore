@@ -1,0 +1,2 @@
+# Ignora los fichero *.o compilados en la carpeta raiz del proyecto
+*.o
