@@ -38,6 +38,7 @@ sudo apt install gcc make
 
 >***`1.Descarregar el nostre repositori complet de Github a un directori per a treballar:`***  
 >***`Eixemple:`***  
+cd EJERCICI/
 git clone https://github.com/USUARIGITHUB/REPOSITORI.git
 
 >***`En el meu cas:`***  
