@@ -57,6 +57,7 @@ Una vegada fet aixó es creará el repositori i será posible pujar o sincronitz
 
 
 cd Unitat-4/
+
 git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`3.Modificarem els fitxers, en este cas son els fitxers escrits en C del exercici "Calcula":calc.c, calc.h i calcula.c amb companyia del fitxer Makefile de make.`***  
