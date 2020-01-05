@@ -35,3 +35,5 @@ sudo apt install git
 sudo apt install gcc make
 
 
+![Imatge](Imatges/imatge6.png)
+
