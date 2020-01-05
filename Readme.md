@@ -38,6 +38,6 @@ sudo apt install gcc make
 ![ImatgeCompilacioPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 
-![ImatgeFitxers](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
+![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
 
