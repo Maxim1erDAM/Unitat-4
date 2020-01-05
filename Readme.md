@@ -105,5 +105,7 @@ git add NOMDEFITXER
 
 ![PushFinal2](Imatges/push%20final%202.png)
 
+>***`Así no mos deixa fer el COMMIT pero perque el contingut no a cambiat a la rama MASTER:`***  
+>***`Eixemple:`***  
 ![PushFinal3](Imatges/push%20final%203.png)
 
